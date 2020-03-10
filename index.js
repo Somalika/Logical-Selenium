@@ -143,6 +143,14 @@ async function example() {
 
 
 }  
+async function none(){
+  try {
+    
+  } catch (error) {
+    
+  }
+}
+
 example();
 
 
